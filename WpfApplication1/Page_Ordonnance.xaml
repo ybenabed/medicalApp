@@ -1,0 +1,179 @@
+﻿<Page x:Class="WpfApplication1.Page_Ordonnance"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+	  Height="590" Width="1080">
+    <StackPanel Background="WhiteSmoke" Margin="0,0,0,0">
+        <Grid Height="10">
+        </Grid>
+        <Grid Height="60" Name="GridBarre" Visibility="Collapsed">
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Top" Margin="10 0"/>
+        </Grid>
+        <Grid x:Name="GridMain" Margin="0,-10,0,0" Height="520" Background="WhiteSmoke">
+            <StackPanel Name="Affichage2" Margin="400,0,0,0" Visibility="Hidden">
+                <Border Height="490" Width="560" Margin="60,0">
+                    <Grid Background="White" Margin="0,10,0,0" >
+                        <StackPanel Background="WhiteSmoke" Width="560" Margin="0,0,0,0" >
+                            <Label Content="Nouvelle ordonnance" FontSize="20" HorizontalAlignment="Center"   />
+                            <StackPanel Orientation="Horizontal" Margin="0,0,315,0" >
+                                <Label Content="Nom :" FontSize="15" Margin="10,0,0,0" />
+                                <TextBox  Name="Nom_Medic" Width="150"  MouseLeftButtonUp="Nom_Medic_MouseLeftButtonUp_1" KeyUp="Nom_Medic_KeyUp" KeyDown="Nom_Medic_KeyDown" Margin="23,0,0,0" />
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal" Margin="0,5,315,0" >
+                                <Label Content="Format :" FontSize="15" Margin="10,0,0,0" />
+                                <ComboBox Name="Forme_Medic" Width="150" Margin="10,0,0,0" >
+                                    <ComboBoxItem Content="Comprimé"/>
+                                    <ComboBoxItem Content="Gélule"/>
+                                    <ComboBoxItem Content="Sirop"/>
+                                    <ComboBoxItem Content="Gouttes"/>
+                                    <ComboBoxItem Content="Injection"/>
+                                    <ComboBoxItem Content="Suppositoire"/>
+                                    <ComboBoxItem Content="Suspension buvable"/>
+                                    <ComboBoxItem Content="Pommade"/>
+                                    <ComboBoxItem Content="Crème"/>
+                                    <ComboBoxItem Content="Gel"/>
+                                    <ComboBoxItem Content="Patch"/>
+                                </ComboBox>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal" Margin="0,5,315,0" >
+                                <Label Content="Dose :" FontSize="15" Margin="10,0,0,0" />
+                                <TextBox Name="Dose_Medic" Width="150" Margin="22,0,0,0" />
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal" Margin="0,5,315,0" >
+                                <Label Content="Nombre de boites :" FontSize="15" Margin="10,0,0,0" />
+                                <ComboBox x:Name="Quant_Medic" Width="80" Margin="5,0,0,0" >
+                                    <ComboBoxItem Content="1"/>
+                                    <ComboBoxItem Content="2"/>
+                                    <ComboBoxItem Content="3"/>
+                                    <ComboBoxItem Content="4"/>
+                                    <ComboBoxItem Content="5"/>
+                                    <ComboBoxItem Content="6"/>
+                                    <ComboBoxItem Content="7"/>
+                                    <ComboBoxItem Content="8"/>
+                                    <ComboBoxItem Content="9"/>
+                                    <ComboBoxItem Content="10"/>
+                                </ComboBox>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal" Margin="0,5,315,0" >
+                                <Label Content="Durée :" FontSize="15" Margin="10,0,0,0" />
+                                <ComboBox x:Name="Dure" Width="150" Margin="15,0,0,0" >
+                                    <ComboBoxItem Content="Jour"/>
+                                    <ComboBoxItem Content="2 Jours"/>
+                                    <ComboBoxItem Content="3 Jours"/>
+                                    <ComboBoxItem Content="4 Jours"/>
+                                    <ComboBoxItem Content="5 Jours"/>
+                                    <ComboBoxItem Content="6 Jours"/>
+                                    <ComboBoxItem Content="1 Semaine"/>
+                                    <ComboBoxItem Content="10 Jours"/>
+                                    <ComboBoxItem Content="2 Semaines"/>
+                                    <ComboBoxItem Content="3 Semaines"/>
+                                    <ComboBoxItem Content="4 Semaines"/>
+                                </ComboBox>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal" Margin="0,5,0,0" >
+                                <Label Content="Nombre de prise :" FontSize="15" Margin="10,0,0,0" />
+                                <ComboBox Name="Nbre_fois" Width="80" Margin="15,0,0,0" >
+                                    <ComboBoxItem Content="1 fois"/>
+                                    <ComboBoxItem Content="2 fois"/>
+                                    <ComboBoxItem Content="3 fois"/>
+                                    <ComboBoxItem Content="4 fois"/>
+                                    <ComboBoxItem Content="5 fois"/>
+                                    <ComboBoxItem Content="6 fois"/>
+                                    <ComboBoxItem Content="7 fois"/>
+                                    <ComboBoxItem Content="8 fois"/>
+                                    <ComboBoxItem Content="9 fois"/>
+                                    <ComboBoxItem Content="10 fois"/>
+                                </ComboBox>
+                                <Label Content="Chaque :" FontSize="15" Margin="10,0,0,0" />
+                                <ComboBox Name="frequence" Width="120" >
+                                    <ComboBoxItem Content="Jour"/>
+                                    <ComboBoxItem Content="2 Jours"/>
+                                    <ComboBoxItem Content="3 Jours"/>
+                                    <ComboBoxItem Content="4 Jours"/>
+                                    <ComboBoxItem Content="5 Jours"/>
+                                    <ComboBoxItem Content="6 Jours"/>
+                                    <ComboBoxItem Content="1 Semaine"/>
+                                    <ComboBoxItem Content="10 Jours"/>
+                                    <ComboBoxItem Content="2 Semaines"/>
+                                    <ComboBoxItem Content="3 Semaines"/>
+                                    <ComboBoxItem Content="4 Semaines"/>
+                                </ComboBox>
+                            </StackPanel>
+                            <StackPanel Margin="0,10,0,0" Height="30" Orientation="Horizontal" >
+                                <Image x:Name="Etat_dajout" Stretch="Fill"  Margin="10,0,0,0" Visibility="Visible" Width="20" Height="20"/>
+                                <Label Name="Etat_dajoutTxt" Width="200" Visibility="Visible" Margin="10,0,0,0" HorizontalAlignment="Left"  />
+                                <Button Content="Ajouter"  Name="addButton" Click="Button_Click_Ajouter" Margin="130,0,0,0" VerticalAlignment="Center" Height="30" Background="#FFD54A42" BorderBrush="#FFD54A42"  />
+                                <Button Name="updateButton" Click="Button_Click_Modifier" Content="Modifier" VerticalAlignment="Center" Margin="10,0,0,0" Height="30" Width="90" BorderBrush="#FFD54A42" Background="#FFD54A42" />
+
+                            </StackPanel>
+                            <DataGrid x:Name="Affich_Medic_Ajouté" AlternatingRowBackground="White" CanUserDeleteRows="False" 
+                                      CanUserAddRows="False" IsReadOnly="True" AutoGenerateColumns="True" Margin="0,5,0,5" 
+                                      Height="160" SelectionChanged="Affich_Medic_Ajouté_SelectionChanged" RowBackground="{DynamicResource {x:Static SystemColors.ControlLightBrushKey}}" 
+                                      AlternationCount="2" ClipToBounds="True" FontSize="11" Background="White">
+                                <DataGrid.Columns>
+                                    <DataGridTemplateColumn>
+                                        <DataGridTemplateColumn.CellTemplate>
+                                            <DataTemplate>
+                                                <materialDesign:PackIcon Kind="Delete" Background="Red" Cursor="Hand" Foreground="White" MouseLeftButtonUp="Supprimer_Click" />
+                                            </DataTemplate>
+                                        </DataGridTemplateColumn.CellTemplate>
+                                    </DataGridTemplateColumn>
+                                </DataGrid.Columns>
+                            </DataGrid>
+                            <StackPanel Orientation="Horizontal" Height="40">
+                                <Button Name="Terminer" Width="90" Content="Terminer" Click="Terminer_Click" Margin="370,0,0,0" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#FFD54A42" />
+                                <Button x:Name="Retour" Width="95" Content="Imprimer" Click="Imprimer_Click" Margin="5,5,0,5" VerticalAlignment="Center" Height="30" BorderBrush="{x:Null}" Background="{x:Null}" Foreground="#FFD54A42" />
+                            </StackPanel>
+                        </StackPanel>
+                        <Frame Name="Confirmer"  Height="80" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="120,215,160,215" Width="280" />
+                        <StackPanel Name="Table_stack" VerticalAlignment="Top" HorizontalAlignment="Left" Height="165" Width="280" Margin="270,45,0,0" >
+                            <DataGrid IsReadOnly="True" Name="datag_medic" Height="165" Margin="0,0,0,0" SelectionChanged="datag_medic_SelectionChanged"/>
+                        </StackPanel>
+                    </Grid>
+                </Border>
+            </StackPanel>
+            <Grid Name="Visualisation" Margin="430,0,0,0">
+                <DocumentViewer Margin="10,30,10,10" Name="Viewer"/>
+                <Button Background="{x:Null}" BorderBrush="{x:Null}" Name="Close_" Click="Close__Click" Margin="595,0,0,435" >
+                    <materialDesign:PackIcon Kind="CloseCircle" Foreground="#FFA2A2A2" Width="25" Height="25" RenderTransformOrigin="0.5,0.5" >
+                    </materialDesign:PackIcon>
+                </Button>
+            </Grid>
+            <StackPanel Name="AffichageStack"  >
+                <StackPanel Orientation="Horizontal" Height="40" VerticalAlignment="Top">
+                    <Label x:Name="LabelMois"  Content="Mois  " FontSize="13" VerticalAlignment="Bottom" Margin="60,0,0,0"/>
+                    <ComboBox x:Name="Mois" Width="60" VerticalAlignment="Bottom" SelectionChanged="Mois_SelectionChanged"/>
+                    <Label x:Name="LabelAnnee" Content="   Année" FontSize="13" VerticalAlignment="Bottom"/>
+                    <ComboBox x:Name="Annee" Width="80" VerticalAlignment="Bottom" SelectionChanged="Mois_SelectionChanged"/>
+                </StackPanel>
+                <DataGrid KeyUp="DatagGrid_KeyUp"  x:Name="DatagGrid" Margin="25,10,660,0" IsReadOnly="True" Height="400"
+                          SelectionChanged="DatagGrid_SelectionChanged">
+                    <DataGrid.Columns>
+                        <DataGridTemplateColumn>
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <StackPanel Orientation="Horizontal">
+                                        <Button Content="Ouvrir avec Word" x:Name="btnGrid" Click="btnGrid_Click" Background="#FFD54A42" BorderBrush="#FFD54A42" Foreground="White" />
+                                        <materialDesign:PopupBox StaysOpen="False" PlacementMode="RightAndAlignMiddles" >
+                                            <StackPanel>
+                                                <Button Content="Ouvrir dans CureIt" x:Name="ouvr" Click="ouvr_Click" />
+                                                <Button Content="Ouvrir l'emplacement" Name="openDirectory" Click="openDirectory_Click" />
+                                            </StackPanel>
+
+                                        </materialDesign:PopupBox>
+                                    </StackPanel>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                    </DataGrid.Columns>
+                </DataGrid>
+                <StackPanel Orientation="Horizontal" Margin="0,5,0,0" >
+                    <Button x:Name="Supprimer" Content="Supprimer" Width="100" Margin="320,10,0,0" Click="Supprimer_Click_1" IsEnabled="False" Background="#FFD54A42" BorderBrush="#FFD54A42" Foreground="White" />
+                </StackPanel>
+            </StackPanel>
+        </Grid>
+    </StackPanel>
+</Page>

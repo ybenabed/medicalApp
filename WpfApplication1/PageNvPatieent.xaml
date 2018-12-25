@@ -1,0 +1,83 @@
+﻿<Page x:Class="WpfApplication1.PageNvPatient"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      d:DesignHeight="300" d:DesignWidth="300" Height="530" Width="530" Background="#FF2E8795"
+	Title="PageNvPatient">
+    <Page.Effect>
+        <DropShadowEffect BlurRadius="15" Direction="-90" RenderingBias="Quality"  ShadowDepth="1" Color="#FFBBBBBB"/>
+    </Page.Effect>
+    <Grid Background="WhiteSmoke">
+
+        <Grid HorizontalAlignment="Center" Height="497" VerticalAlignment="Center" Width="515" Margin="5,35,10,18">
+
+            <Label x:Name="dossier_medical" Content="Nouveau Patient" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="24" FontWeight="SemiBold" Height="50" Background="{x:Null}" Foreground="#FF2360B4"/>
+            <Grid HorizontalAlignment="Left" Height="454" VerticalAlignment="Top" Width="431" Margin="38,34,0,0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="64*"/>
+                    <RowDefinition Height="287*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="217"/>
+                    <ColumnDefinition Width="215"/>
+                </Grid.ColumnDefinitions>
+                <Label x:Name="Nom" Content="Nom :" HorizontalAlignment="Left" VerticalAlignment="Top" Width="68" Height="30" Margin="2,26,0,0" FontSize="14"/>
+                <Label x:Name="Prenom" Content="Prénom :" HorizontalAlignment="Left" Margin="0,65,0,0" VerticalAlignment="Top" Width="123" Height="30" Grid.RowSpan="2" FontSize="14"/>
+                <Label x:Name="Dt" Content="Date de naissance :" HorizontalAlignment="Left" Margin="-1,19,0,0" VerticalAlignment="Top" Width="124" Grid.Row="1" Height="28" FontSize="14"/>
+                <Label x:Name="Adresse" Content="Adresse :" HorizontalAlignment="Left" Margin="-1,52,0,0" VerticalAlignment="Top" Width="124" Grid.Row="1" Height="30" FontSize="14"/>
+                <Label x:Name="Mail" Content="E-mail :" HorizontalAlignment="Left" Margin="3,93,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.147,-0.129" Width="120" Grid.Row="1" Height="30" FontSize="14"/>
+                <TextBox x:Name="Nom1"   PreviewTextInput="Nom1_PreviewTextInput" FontWeight="Bold"   HorizontalAlignment="Left" Margin="137,26,0,25" TextWrapping="Wrap" Width="295" RenderTransformOrigin="0.5,0.5" Grid.ColumnSpan="2" MaxLength="30" FontSize="14" Foreground="Black" />
+                <TextBox x:Name="Prenom1"   PreviewTextInput="Nom1_PreviewTextInput" FontWeight="Bold" Foreground="Black" HorizontalAlignment="Left" Height="34" Margin="137,62,-1,358" TextWrapping="WrapWithOverflow"  VerticalAlignment="Center" Width="296"  Grid.ColumnSpan="2" MaxLength="50" Grid.RowSpan="2" FontSize="14"/>
+                <DatePicker x:Name="date" HorizontalAlignment="Left" Grid.Row="1" VerticalAlignment="Top" Width="101" FontWeight="Bold" Foreground="Black" Background="{x:Null}" SelectedDateFormat="Short" Margin="136,17,0,0" Grid.ColumnSpan="2" RenderTransformOrigin="0.5,0.5" Height="29" FontSize="14">
+                    <DatePicker.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="-0.018"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </DatePicker.RenderTransform>
+                </DatePicker>
+                <TextBox x:Name="Adr"  FontWeight="Bold" HorizontalAlignment="Left" Height="33"  Margin="137,52,0,0"  Foreground="Black"  TextWrapping="WrapWithOverflow" VerticalAlignment="Top" Width="295" Grid.Row="1" Background="{x:Null}" BorderBrush="#FF707480" RenderTransformOrigin="0.5,0.5" Grid.ColumnSpan="2" MaxLength="150" FontSize="14"/>
+                <TextBox x:Name="Email" FontWeight="Bold"  Foreground="Black"   HorizontalAlignment="Left" Height="33" Margin="137,92,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="295" Grid.Row="1" Background="{x:Null}" Grid.ColumnSpan="2" MaxLength="30" RenderTransformOrigin="0.5,0.5" FontSize="14" >
+                    <TextBox.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="0.034"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </TextBox.RenderTransform>
+                </TextBox>
+                <Label x:Name="nonadr" Margin="111,98,1,0" FontSize="12" Foreground="Red"    RenderTransformOrigin="0.5,0.5" Height="30" VerticalAlignment="Top" Grid.Row="1" AllowDrop="True" VerticalContentAlignment="Center"  Visibility="Hidden"    Content="Adresse Invalide!!" HorizontalContentAlignment="Left" Grid.Column="1"/>
+                <TextBox x:Name="tel"  FontWeight="Bold"  Foreground="Black"  PreviewTextInput="tel_PreviewTextInput" HorizontalAlignment="Left" Height="33" Margin="136,131,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="296" Background="{x:Null}" Grid.ColumnSpan="2" MaxLength="10" RenderTransformOrigin="0.5,0.5" FontSize="14">
+                    <TextBox.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="-0.057"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </TextBox.RenderTransform>
+                </TextBox>
+                <Label x:Name="nonnum" Margin="98,133,1,0" FontSize="12" Foreground="Red"    VerticalContentAlignment="Bottom"  RenderTransformOrigin="0.5,0.5" Height="30" VerticalAlignment="Top" Grid.Row="1" AllowDrop="True"   Visibility="Hidden"  Content="Numéro Incomplet!!" HorizontalContentAlignment="Left" Grid.Column="1"/>
+                <Label Content="Groupe sanguin :" HorizontalAlignment="Left" Margin="0,205,0,0" Grid.Row="1" VerticalAlignment="Top" Width="123"  Height="30" Background="{x:Null}" FontSize="14">
+                </Label>
+                <Label x:Name="sexe" Content="Sexe :" HorizontalAlignment="Left" Margin="2,169,0,0" Grid.Row="1" VerticalAlignment="Top" Width="80" FontSize="14" Height="26"/>
+                <ComboBox x:Name="comboSexe" HorizontalAlignment="Left" Margin="137,169,0,0" Grid.Row="1" Height="30" VerticalAlignment="Top" Width="84" FontWeight="Bold" Background="{x:Null}" Foreground="Black" FontSize="14" Grid.ColumnSpan="2"/>
+                <ComboBox x:Name="comboSG" HorizontalAlignment="Left" Margin="137,205,0,0" Grid.Row="1" VerticalAlignment="Top" Width="84" IsReadOnly="True" Height="30" FontWeight="Bold" Background="{x:Null}" Foreground="Black" FontSize="14" Grid.ColumnSpan="2"/>
+                <Button Content="Enregistrer" HorizontalAlignment="Left" Margin="106,270,-1,0" VerticalAlignment="Top" Width="110" FontWeight="Bold" Grid.Column="1" Grid.Row="1" Click="Button_Click" Height="32" Background="#FF2360B4" Foreground="White" Cursor="Hand" BorderBrush="#FF2360B4" />
+                <Label x:Name="label" Content="Numéro Tel :" HorizontalAlignment="Left" Margin="3,128,0,0" Grid.Row="1" VerticalAlignment="Top" Width="120" Height="30" FontSize="14"/>
+                <Label x:Name="Remarque" Margin="45,316,6,0" FontSize="15" Grid.ColumnSpan="2" RenderTransformOrigin="0.5,0.5" Height="30" VerticalAlignment="Top" Grid.Row="1" AllowDrop="True" VerticalContentAlignment="Center" HorizontalContentAlignment="Left"/>
+                <Image x:Name="Pic" Margin="12,320,179,29" Source="Images\False.png" Stretch="Fill" Visibility="Hidden" RenderTransformOrigin="0.5,0.5" Grid.Row="1">
+
+                </Image>
+            </Grid>
+            <Image Name ="pic2" Margin="50,439,439,35" Source="Images\True.png" Stretch="Fill" Visibility="Hidden"/>
+        </Grid>
+
+    </Grid>
+</Page>

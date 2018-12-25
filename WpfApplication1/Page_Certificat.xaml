@@ -1,0 +1,101 @@
+﻿<Page x:Class="WpfApplication1.Page_Certificat"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+	  Height="590" Width="1080">
+    <StackPanel Background="WhiteSmoke">
+        <Grid Height="10">
+        </Grid>
+        <Grid Height="60" Name="GridBarre">
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Top" Margin="10 0">
+                <Button Uid="0" Width="200" Content="CERTIFICAT" Height="50" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#0c4a60" Click="Button_Click"/>
+                <Button Uid="1" Width="200" Content="AJOUTER CERTIFICAT" Height="50" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#0c4a60" Click="Button_Click"/>
+            </StackPanel>
+            <Grid x:Name="GridCursor" Width="200" Height="5" Background="#FFD54A42" HorizontalAlignment="Left" Margin="10,45,0,10" />
+        </Grid>
+        <Grid x:Name="GridMain" Height="520" Background="WhiteSmoke">
+            <StackPanel Name="Affichage2" >
+                <Border Height="290" Width="550" Margin="0,40,0,0" Background="Black">
+                    <Grid>
+                        <Grid Background="WhiteSmoke" Margin="1" Height="290" Width="550" Name="grdcert" >
+                            <StackPanel Orientation="Horizontal" Margin="10,20,10,0" VerticalAlignment="Top" >
+                                <Label Content="Période :"  Margin="0,19,10,0" VerticalAlignment="Top" Width="80" FontSize="15"  Height="30"/>
+                                <TextBox Margin="0,19,10,15" Width="50" Name="nb" PreviewTextInput="nb_PreviewTextInput"   />
+                                <ComboBox x:Name="Nbre_jour" Margin="0,19,10,15" Width="92" >
+                                    <ComboBoxItem Content="Jour"/>
+                                    <ComboBoxItem Content="Semaine"/>
+                                    <ComboBoxItem Content="Mois"/>
+                                    <ComboBoxItem Content="Ans"/>
+                                </ComboBox>
+                            </StackPanel>
+                            <StackPanel Orientation="Vertical" Margin="0,80,0,81" Height="Auto"   >
+                                <Label Content=" Commentaire :"  Margin="0,10,384,0" VerticalAlignment="Top" FontSize="15" Height="30"/>
+                                <TextBox x:Name="comment" Margin="10" Height="70"  TextWrapping="WrapWithOverflow" VerticalContentAlignment="Top" />
+                            </StackPanel>
+                            <Button Content="Enregistrer et imprimer" Width="183" Height="30" Click="Button_Click2" Margin="239,220,128,40" Background="{x:Null}" Foreground="#FFD54A42" BorderBrush="{x:Null}"/>
+                            <Button Content="Annuler" Name="annulerbutt" Width="100" Height="30" Margin="440,220,10,40" Foreground="#FFD54A42" BorderBrush="{x:Null}" Background="{x:Null}" Click="annulerbutt_Click"/>
+                            <Frame Name="Frame" Width="400" Height="100" Margin="85,80,65,110"/>
+                        </Grid>
+                        <Rectangle Name="RecStacknonrempcert" HorizontalAlignment="Center" VerticalAlignment="Center" Width="238" Height="62" Margin="156,114" Fill="White" Visibility="Hidden" >
+                            <Rectangle.Effect>
+                                <DropShadowEffect BlurRadius="15" Direction="0" RenderingBias="Quality" ShadowDepth="1" Color="#FFBBBBBB"/>
+                            </Rectangle.Effect>
+                        </Rectangle>
+                        <StackPanel Orientation="Vertical" Name="Stacknonrempcert" HorizontalAlignment="Center" VerticalAlignment="Center" Visibility="Hidden" >
+                            <Label Content="Verifiez la saisie de tous les champs !" FontSize="14" />
+                            <StackPanel HorizontalAlignment="Center" >
+                                <Button Content="ok" Name="buttokcert" Foreground="#FFD54A42" BorderBrush="{x:Null}" Background="{x:Null}" Click="buttokcert_Click" />
+                            </StackPanel>
+                        </StackPanel>
+                        <Rectangle Name="RecStackcertbienAjouer" HorizontalAlignment="Center" VerticalAlignment="Center" Width="146" Height="62" Margin="202,114" Fill="White" Visibility="Hidden" >
+                            <Rectangle.Effect>
+                                <DropShadowEffect BlurRadius="15" Direction="0" RenderingBias="Quality" ShadowDepth="1" Color="#FFBBBBBB"/>
+                            </Rectangle.Effect>
+                        </Rectangle>
+                        <StackPanel Orientation="Vertical" Name="StackcertbienAjouer" HorizontalAlignment="Center" VerticalAlignment="Center" Visibility="Hidden" >
+                            <Label Content="Certificat enregistrée !" FontSize="14" />
+                            <StackPanel HorizontalAlignment="Center" >
+                                <Button Content="ok" Name="buttokcertajouter" Foreground="#FFD54A42" BorderBrush="{x:Null}" Background="{x:Null}" Click="buttokcertajouter_Click" />
+                            </StackPanel>
+                        </StackPanel>
+                    </Grid>
+                </Border>
+            </StackPanel>
+            <StackPanel Name="AffichageStack" Margin="0,0,0,0" Visibility="Hidden"  >
+                <StackPanel Orientation="Horizontal" Height="40" VerticalAlignment="Top">
+                    <Label Name="LabelMois" Content="Mois  " FontSize="13" VerticalAlignment="Bottom" Margin="60,0,0,0"/>
+                    <ComboBox Name="Mois" Width="60" VerticalAlignment="Bottom"/>
+                    <Label Name="LabelAnnee" Content="   Année" FontSize="13" VerticalAlignment="Bottom"/>
+                    <ComboBox Name="Annee" Width="80" VerticalAlignment="Bottom"/>
+                </StackPanel>
+                <DataGrid IsReadOnly="True" Name="DatagGrid" Margin="5,10,0,0" Height="400" SelectionChanged="DatagGrid_SelectionChanged" KeyUp="DatagGrid_KeyUp">
+                    <DataGrid.Columns>
+                        <DataGridTemplateColumn>
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <Button Content="Afficher le fichier" Name="btnGrid" Click="btnGrid_Click" Background="#FFD54A42" BorderBrush="#FFD54A42" Foreground="White"/>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                    </DataGrid.Columns>
+                    <DataGrid.RowDetailsTemplate>
+                        <DataTemplate>
+                            <Border BorderThickness="1" BorderBrush="#FF2196F3">
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock FontSize="13" Text="Commentaire: " FontWeight="SemiBold"/>
+                                    <TextBlock FontSize="13" Text="{Binding commentaire}"/>
+                                </StackPanel>
+                            </Border>
+                        </DataTemplate>
+                    </DataGrid.RowDetailsTemplate>
+                </DataGrid>
+                <StackPanel Orientation="Horizontal">
+                    <Button Name="Supprimer" IsEnabled="False" Content="Supprimer" Width="100" Margin="950,15,0,0" Click="Supprimer_Click_1" Background="#FFD54A42" BorderBrush="#FFD54A42"/>
+                </StackPanel>
+            </StackPanel>
+        </Grid>
+    </StackPanel>
+</Page>

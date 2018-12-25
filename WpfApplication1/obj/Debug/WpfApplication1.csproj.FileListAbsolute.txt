@@ -1,0 +1,903 @@
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\Window1.baml
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\Window1.g.cs
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_Content.g.cs
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\bin\Debug\Database1.mdf
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\bin\Debug\Database1_log.ldf
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\Interface_Authentification.baml
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\Interface_Authentification.g.cs
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\InterfaceOrdonnance.baml
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\InterfaceOrdonnance.g.cs
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\InterfaceAccueil.baml
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\InterfaceAccueil.g.cs
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\Window2.baml
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\Window2.g.cs
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\InterfaceSupprimerMedicament.baml
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\InterfaceSupprimerMedicament.g.cs
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\ConfirmerSuppressionMedic.baml
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\ConfirmerSuppressionMedic.g.cs
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\AjouterMedic.baml
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\AjouterMedic.g.cs
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\PageOrdonnance.baml
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\PageOrdonnance.g.cs
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\PageExamenClinique.baml
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\PageExamenClinique.g.cs
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\PageExamenComplementaire.baml
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\PageExamenComplementaire.g.cs
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\DictionnaireRetourButton.baml
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\App.baml
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\Page1.baml
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\Page1.g.cs
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\Page_Affiche_Doss_Med.baml
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\Page_Affiche_Doss_Med.g.cs
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\Page_Aff_FC.baml
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\Page_Aff_FC.g.cs
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\Page2.baml
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\Page2.g.cs
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\confirmerQuitter.baml
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\confirmerQuitter.g.cs
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\VerifExmComp.baml
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\VerifExmComp.g.cs
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\Cofirmer_lettre.baml
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\PageLettreOrein.baml
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\Cofirmer_lettre.g.cs
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\PageLettreOrein.g.cs
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\VerifLettre.baml
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\VerifLettre.g.cs
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\Confirmer_cert.baml
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\PageCerteficat.baml
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\Confirmer_cert.g.cs
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\PageCerteficat.g.cs
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\confirmer_FC.baml
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\PageFicheConsultation.baml
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\confirmer_FC.g.cs
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\PageFicheConsultation.g.cs
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\viewMoreFiche.baml
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\viewMoreFiche.g.cs
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\LettreOrienMoreDetailsPage3.baml
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\Page_Affich_Lettre_Orien.baml
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\LettreOrienMoreDetailsPage3.g.cs
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\Page_Affich_Lettre_Orien.g.cs
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\PageAffichExmComp.baml
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\PageAffichExmComp.g.cs
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\Acceuil.baml
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\Acceuil.g.cs
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\InterfaceRDV.baml
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\InterfaceRDV.g.cs
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\PagePatient.baml
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\PagePatient.g.cs
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\bin\Debug\Database1.mdf
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\bin\Debug\Database1_log.ldf
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Acceuil.baml
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Ajouter-RDV.baml
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\AjouterMedic.baml
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Cofirmer_lettre.baml
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\confirmerQuitter.baml
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\ConfirmerSuppressionMedic.baml
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Confirmer_cert.baml
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\confirmer_FC.baml
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\ConsultationRDV.baml
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\DictionnaireRetourButton.baml
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\InterfaceAccueil.baml
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\InterfaceDossierRech.baml
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\InterfaceOrdonnance.baml
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\InterfaceRDV.baml
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\InterfaceSupprimerMedicament.baml
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Interface_Authentification.baml
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\LettreOrienMoreDetailsPage3.baml
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Page1.baml
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Page2.baml
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\PageAffichExmComp.baml
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\PageCerteficat.baml
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\PageExamenClinique.baml
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\PageExamenComplementaire.baml
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\PageFicheConsultation.baml
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\PageLettreOrein.baml
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\PageOrdonnance.baml
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\PagePatient.baml
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Page_Affiche_Doss_Med.baml
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Page_Affich_Lettre_Orien.baml
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Page_Aff_FC.baml
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\VerifExmComp.baml
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\VerifLettre.baml
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\viewMoreFiche.baml
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Window1.baml
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Window2.baml
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\App.baml
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Acceuil.g.cs
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Ajouter-RDV.g.cs
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\AjouterMedic.g.cs
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Cofirmer_lettre.g.cs
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\confirmerQuitter.g.cs
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\ConfirmerSuppressionMedic.g.cs
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Confirmer_cert.g.cs
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\confirmer_FC.g.cs
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\ConsultationRDV.g.cs
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\InterfaceAccueil.g.cs
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\InterfaceDossierRech.g.cs
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\InterfaceOrdonnance.g.cs
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\InterfaceRDV.g.cs
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\InterfaceSupprimerMedicament.g.cs
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Interface_Authentification.g.cs
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Interface_Format_Final_Ordonnance.g.cs
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\LettreOrienMoreDetailsPage3.g.cs
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Page1.g.cs
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Page2.g.cs
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\PageAffichExmComp.g.cs
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\PageCerteficat.g.cs
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\PageExamenClinique.g.cs
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\PageExamenComplementaire.g.cs
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\PageFicheConsultation.g.cs
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\PageLettreOrein.g.cs
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\PageOrdonnance.g.cs
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\PagePatient.g.cs
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Page_Affiche_Doss_Med.g.cs
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Page_Affich_Lettre_Orien.g.cs
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Page_Aff_FC.g.cs
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\VerifExmComp.g.cs
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\VerifLettre.g.cs
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\viewMoreFiche.g.cs
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Window1.g.cs
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Window2.g.cs
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_Content.g.cs
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Interface_Format_Final_Ordonnance.baml
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\bin\Debug\MaterialDesignColors.dll
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\auth.baml
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\auth.g.cs
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Page_recherche_patient.baml
+C:\Users\Nici-Tech\Desktop\SendAnywhere\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Page_recherche_patient.g.cs
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\bin\Debug\Database1.mdf
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\bin\Debug\Database1_log.ldf
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\bin\Debug\MaterialDesignColors.dll
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Acceuil.baml
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Ajouter-RDV.baml
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\AjouterMedic.baml
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\auth.baml
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Cofirmer_lettre.baml
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\confirmerQuitter.baml
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\ConfirmerSuppressionMedic.baml
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Confirmer_cert.baml
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\confirmer_FC.baml
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\DictionnaireRetourButton.baml
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\InterfaceAccueil.baml
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\InterfaceOrdonnance.baml
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\InterfaceRDV.baml
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\InterfaceSupprimerMedicament.baml
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Interface_Authentification.baml
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\LettreOrienMoreDetailsPage3.baml
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Page1.baml
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Page2.baml
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\PageAffichExmComp.baml
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\PageCerteficat.baml
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\PageExamenClinique.baml
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\PageExamenComplementaire.baml
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\PageFicheConsultation.baml
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\PageLettreOrein.baml
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\PageOrdonnance.baml
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\PagePatient.baml
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Page_Affiche_Doss_Med.baml
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Page_Affich_Lettre_Orien.baml
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Page_Aff_FC.baml
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Page_recherche_patient.baml
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\VerifExmComp.baml
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\VerifLettre.baml
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\viewMoreFiche.baml
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Window1.baml
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Window2.baml
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\App.baml
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Acceuil.g.cs
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Ajouter-RDV.g.cs
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\AjouterMedic.g.cs
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\auth.g.cs
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Cofirmer_lettre.g.cs
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\confirmerQuitter.g.cs
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\ConfirmerSuppressionMedic.g.cs
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Confirmer_cert.g.cs
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\confirmer_FC.g.cs
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\InterfaceAccueil.g.cs
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\InterfaceOrdonnance.g.cs
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\InterfaceRDV.g.cs
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\InterfaceSupprimerMedicament.g.cs
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Interface_Authentification.g.cs
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\LettreOrienMoreDetailsPage3.g.cs
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Page1.g.cs
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Page2.g.cs
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\PageAffichExmComp.g.cs
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\PageCerteficat.g.cs
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\PageExamenClinique.g.cs
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\PageExamenComplementaire.g.cs
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\PageFicheConsultation.g.cs
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\PageLettreOrein.g.cs
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\PageOrdonnance.g.cs
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\PagePatient.g.cs
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Page_Affiche_Doss_Med.g.cs
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Page_Affich_Lettre_Orien.g.cs
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Page_Aff_FC.g.cs
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Page_recherche_patient.g.cs
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\VerifExmComp.g.cs
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\VerifLettre.g.cs
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\viewMoreFiche.g.cs
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Window1.g.cs
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\Window2.g.cs
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_Content.g.cs
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\InterfaceInscription.baml
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\PageVerifSaisi.baml
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\InterfaceInscription.g.cs
+E:\ESI\2CPI\S2\Projet\C#\wpf1\Wpf1\WpfApplication1\WpfApplication1\obj\Debug\PageVerifSaisi.g.cs
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\bin\Debug\MaterialDesignColors.dll
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\auth.baml
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\InterfaceInscription.baml
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\PageVerifSaisi.baml
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\Page_recherche_patient.baml
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\auth.g.cs
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\InterfaceInscription.g.cs
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\PageVerifSaisi.g.cs
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\Page_recherche_patient.g.cs
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\InterfacePatientExistant.baml
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\InterfacePatientExistant.g.cs
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\InterfaceNouveaPatient.baml
+E:\ESI\2CPI\S2\Projet\C#\WpfApplication1\WpfApplication1\obj\Debug\InterfaceNouveaPatient.g.cs
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\bin\Debug\Database1.mdf
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\bin\Debug\Database1_log.ldf
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\bin\Debug\MaterialDesignColors.dll
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\Acceuil.baml
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\AjouterMedic.baml
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\auth.baml
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\Cofirmer_lettre.baml
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\confirmerQuitter.baml
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\ConfirmerSuppressionMedic.baml
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\Confirmer_cert.baml
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\confirmer_FC.baml
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\DictionnaireRetourButton.baml
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\InterfaceAccueil.baml
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\InterfaceInscription.baml
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\InterfaceNouveaPatient.baml
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\InterfacePatientExistant.baml
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\InterfaceRDV.baml
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\InterfaceSupprimerMedicament.baml
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\Interface_Authentification.baml
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\LettreOrienMoreDetailsPage3.baml
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\Page1.baml
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\Page2.baml
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\PageAffichExmComp.baml
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\PageCerteficat.baml
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\PageExamenClinique.baml
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\PageExamenComplementaire.baml
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\PageFicheConsultation.baml
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\PageLettreOrein.baml
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\PageOrdonnance.baml
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\PagePatient.baml
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\PageVerifSaisi.baml
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\Page_Affiche_Doss_Med.baml
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\Page_Affich_Lettre_Orien.baml
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\Page_Aff_FC.baml
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\Page_recherche_patient.baml
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\VerifExmComp.baml
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\VerifLettre.baml
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\viewMoreFiche.baml
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\Window1.baml
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\Window2.baml
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\App.baml
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\Acceuil.g.cs
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\AjouterMedic.g.cs
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\auth.g.cs
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\Cofirmer_lettre.g.cs
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\confirmerQuitter.g.cs
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\ConfirmerSuppressionMedic.g.cs
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\Confirmer_cert.g.cs
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\confirmer_FC.g.cs
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\InterfaceAccueil.g.cs
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\InterfaceInscription.g.cs
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\InterfaceNouveaPatient.g.cs
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\InterfacePatientExistant.g.cs
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\InterfaceRDV.g.cs
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\InterfaceSupprimerMedicament.g.cs
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\Interface_Authentification.g.cs
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\LettreOrienMoreDetailsPage3.g.cs
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\Page1.g.cs
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\Page2.g.cs
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\PageAffichExmComp.g.cs
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\PageCerteficat.g.cs
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\PageExamenClinique.g.cs
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\PageExamenComplementaire.g.cs
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\PageFicheConsultation.g.cs
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\PageLettreOrein.g.cs
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\PageOrdonnance.g.cs
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\PagePatient.g.cs
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\PageVerifSaisi.g.cs
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\Page_Affiche_Doss_Med.g.cs
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\Page_Affich_Lettre_Orien.g.cs
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\Page_Aff_FC.g.cs
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\Page_recherche_patient.g.cs
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\VerifExmComp.g.cs
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\VerifLettre.g.cs
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\viewMoreFiche.g.cs
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\Window1.g.cs
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\Window2.g.cs
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_Content.g.cs
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\Interface_rech-pat-rdv.baml
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\Interface_rech-pat-rdv.g.cs
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\Nv_acceuil.baml
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\Nv_acceuil.g.cs
+C:\Users\Nici-Tech\Desktop\latest_v_projet\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.ResolveComReference.cache
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.ResolveComReference.cache
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\AjouterMedic.baml
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\auth.baml
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Cofirmer_lettre.baml
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\confirmerQuitter.baml
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\ConfirmerSuppressionMedic.baml
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Confirmer_cert.baml
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\confirmer_FC.baml
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\DictionnaireRetourButton.baml
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\InterfaceAccueil.baml
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\InterfaceInscription.baml
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\InterfaceNouveaPatient.baml
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\InterfacePatientExistant.baml
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\InterfaceRDV.baml
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\InterfaceSupprimerMedicament.baml
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Interface_rech-pat-rdv.baml
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\LettreOrienMoreDetailsPage3.baml
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Nv_acceuil.baml
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Page1.baml
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Page2.baml
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\PageAffichExmComp.baml
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\PageCerteficat.baml
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\PageExamenClinique.baml
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\PageExamenComplementaire.baml
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\PageFicheConsultation.baml
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\PageLettreOrein.baml
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\PageOrdonnance.baml
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\PagePatient.baml
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\PageVerifSaisi.baml
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Page_Affiche_Doss_Med.baml
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Page_Affich_Lettre_Orien.baml
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Page_Aff_FC.baml
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Page_recherche_patient.baml
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\VerifExmComp.baml
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\VerifLettre.baml
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\viewMoreFiche.baml
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Window1.baml
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Window2.baml
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\App.baml
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\AjouterMedic.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\auth.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Cofirmer_lettre.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\confirmerQuitter.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\ConfirmerSuppressionMedic.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Confirmer_cert.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\confirmer_FC.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\InterfaceAccueil.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\InterfaceInscription.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\InterfaceNouveaPatient.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\InterfacePatientExistant.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\InterfaceRDV.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\InterfaceSupprimerMedicament.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Interface_rech-pat-rdv.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\LettreOrienMoreDetailsPage3.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Nv_acceuil.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Page1.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Page2.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\PageAffichExmComp.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\PageCerteficat.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\PageExamenClinique.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\PageExamenComplementaire.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\PageFicheConsultation.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\PageLettreOrein.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\PageOrdonnance.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\PagePatient.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\PageVerifSaisi.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Page_Affiche_Doss_Med.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Page_Affich_Lettre_Orien.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Page_Aff_FC.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Page_recherche_patient.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\VerifExmComp.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\VerifLettre.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\viewMoreFiche.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Window1.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Window2.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_Content.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\bin\Debug\Database1.mdf
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\bin\Debug\Database1_log.ldf
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\bin\Debug\MaterialDesignColors.dll
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\PagePatients.baml
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\PagePatients.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\PageNotif.baml
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\PageNotif.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\PageRdv.baml
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\PageRdv.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\PageNvPatient.baml
+C:\Users\Ismail\Desktop\WpfApplication1\WpfApplication1\obj\Debug\PageNvPatient.g.cs
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.ResolveComReference.cache
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\bin\Debug\Database1.mdf
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\bin\Debug\Database1_log.ldf
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\bin\Debug\MaterialDesignColors.dll
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\AjouterMedic.baml
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\auth.baml
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\Cofirmer_lettre.baml
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\confirmerQuitter.baml
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\ConfirmerSuppressionMedic.baml
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\Confirmer_cert.baml
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\confirmer_FC.baml
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\DictionnaireRetourButton.baml
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\InterfaceAccueil.baml
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\InterfaceInscription.baml
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\InterfaceNouveaPatient.baml
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\InterfacePatientExistant.baml
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\InterfaceRDV.baml
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\InterfaceSupprimerMedicament.baml
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\Interface_rech-pat-rdv.baml
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\LettreOrienMoreDetailsPage3.baml
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\Nv_acceuil.baml
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\Page1.baml
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\Page2.baml
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\PageAffichExmComp.baml
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\PageCerteficat.baml
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\PageExamenClinique.baml
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\PageExamenComplementaire.baml
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\PageFicheConsultation.baml
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\PageLettreOrein.baml
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\PageNotif.baml
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\PageNvPatient.baml
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\PageOrdonnance.baml
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\PagePatient.baml
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\PagePatients.baml
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\PageRdv.baml
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\PageVerifSaisi.baml
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\Page_Affiche_Doss_Med.baml
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\Page_Affich_Lettre_Orien.baml
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\Page_Aff_FC.baml
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\Page_recherche_patient.baml
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\VerifExmComp.baml
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\VerifLettre.baml
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\viewMoreFiche.baml
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\Window1.baml
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\Window2.baml
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\App.baml
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\AjouterMedic.g.cs
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\auth.g.cs
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\Cofirmer_lettre.g.cs
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\confirmerQuitter.g.cs
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\ConfirmerSuppressionMedic.g.cs
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\Confirmer_cert.g.cs
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\confirmer_FC.g.cs
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\InterfaceAccueil.g.cs
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\InterfaceInscription.g.cs
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\InterfaceNouveaPatient.g.cs
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\InterfacePatientExistant.g.cs
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\InterfaceRDV.g.cs
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\InterfaceSupprimerMedicament.g.cs
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\Interface_rech-pat-rdv.g.cs
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\LettreOrienMoreDetailsPage3.g.cs
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\Nv_acceuil.g.cs
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\Page1.g.cs
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\Page2.g.cs
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\PageAffichExmComp.g.cs
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\PageCerteficat.g.cs
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\PageExamenClinique.g.cs
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\PageExamenComplementaire.g.cs
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\PageFicheConsultation.g.cs
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\PageLettreOrein.g.cs
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\PageNotif.g.cs
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\PageNvPatient.g.cs
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\PageOrdonnance.g.cs
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\PagePatient.g.cs
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\PagePatients.g.cs
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\PageRdv.g.cs
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\PageVerifSaisi.g.cs
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\Page_Affiche_Doss_Med.g.cs
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\Page_Affich_Lettre_Orien.g.cs
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\Page_Aff_FC.g.cs
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\Page_recherche_patient.g.cs
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\VerifExmComp.g.cs
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\VerifLettre.g.cs
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\viewMoreFiche.g.cs
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\Window1.g.cs
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\Window2.g.cs
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_Content.g.cs
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Nici-Tech\Desktop\latest_latest\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\WpfApplication1.csproj.ResolveComReference.cache
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\bin\Debug\Database1.mdf
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\bin\Debug\Database1_log.ldf
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\bin\Debug\MaterialDesignColors.dll
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\auth.baml
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\Nv_acceuil.baml
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\PageExamenClinique.baml
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\PageFicheConsultation.baml
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\PageNotif.baml
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\PageNvPatient.baml
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\PagePatients.baml
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\PageRdv.baml
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\PageVerifSaisi.baml
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\App.baml
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\auth.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\Nv_acceuil.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\PageExamenClinique.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\PageFicheConsultation.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\PageNotif.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\PageNvPatient.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\PagePatients.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\PageRdv.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\PageVerifSaisi.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\WpfApplication1_Content.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\GestionComptes.baml
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\GestionComptes.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\PageModifierCompte.baml
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\PageModifierCompte.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\PageAffichHistorique.baml
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\PageAffichHistorique.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\Page_Ordonnance.baml
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\Page_Ordonnance.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\PageGestionCompte.baml
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\PageGestionCompte.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\InterfaceFonctionnalité.baml
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\InterfaceFonctionnalité.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\Page_Examen_Comp.baml
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\Page_Examen_Comp.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\Page_Certificat.baml
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\Page_Certificat.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\Page_Lettre_Orientation.baml
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\Page_Lettre_Orientation.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\NvConsultation.baml
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\NvConsultation.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\PageInscription.baml
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\PageInscription.g.cs
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\DictionnaireRetourButton.baml
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\WpfApplication1.csproj.ResolveComReference.cache
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\bin\Debug\Database1.mdf
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\bin\Debug\Database1_log.ldf
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\bin\Debug\MaterialDesignColors.dll
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\auth.baml
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\DictionnaireRetourButton.baml
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\GestionComptes.baml
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\InterfaceFonctionnalité.baml
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\NvConsultation.baml
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\Nv_acceuil.baml
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\PageAffichHistorique.baml
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\PageExamenClinique.baml
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\PageFicheConsultation.baml
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\PageGestionCompte.baml
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\PageInscription.baml
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\PageModifierCompte.baml
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\PageNotif.baml
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\PageNvPatient.baml
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\PagePatients.baml
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\PageRdv.baml
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\PageVerifSaisi.baml
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\Page_Certificat.baml
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\Page_Examen_Comp.baml
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\Page_Lettre_Orientation.baml
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\Page_Ordonnance.baml
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\App.baml
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\auth.g.cs
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\GestionComptes.g.cs
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\InterfaceFonctionnalité.g.cs
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\NvConsultation.g.cs
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\Nv_acceuil.g.cs
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\PageAffichHistorique.g.cs
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\PageExamenClinique.g.cs
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\PageFicheConsultation.g.cs
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\PageGestionCompte.g.cs
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\PageInscription.g.cs
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\PageModifierCompte.g.cs
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\PageNotif.g.cs
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\PageNvPatient.g.cs
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\PagePatients.g.cs
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\PageRdv.g.cs
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\PageVerifSaisi.g.cs
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\Page_Certificat.g.cs
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\Page_Examen_Comp.g.cs
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\Page_Lettre_Orientation.g.cs
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\Page_Ordonnance.g.cs
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\WpfApplication1_Content.g.cs
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\bin\Debug\itextsharp.dll
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\bin\Debug\itextsharp.dll
+C:\Users\Nici-Tech\Desktop\WpfApplication1-Version\WpfApplication1\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\PageHome.baml
+C:\Users\Ismail\Desktop\WpfApplication1-Version\WpfApplication1\obj\Debug\PageHome.g.cs
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\WpfApplication1.csproj.ResolveComReference.cache
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\bin\Debug\Database1.mdf
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\bin\Debug\Database1_log.ldf
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\bin\Debug\itextsharp.dll
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\bin\Debug\MaterialDesignColors.dll
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\auth.baml
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\DictionnaireRetourButton.baml
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\GestionComptes.baml
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\InterfaceFonctionnalité.baml
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\NvConsultation.baml
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\Nv_acceuil.baml
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageAffichHistorique.baml
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageExamenClinique.baml
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageFicheConsultation.baml
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageGestionCompte.baml
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageHome.baml
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageInscription.baml
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageModifierCompte.baml
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageNotif.baml
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageNvPatient.baml
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PagePatients.baml
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageRdv.baml
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageVerifSaisi.baml
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\Page_Certificat.baml
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\Page_Examen_Comp.baml
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\Page_Lettre_Orientation.baml
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\Page_Ordonnance.baml
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\App.baml
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\auth.g.cs
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\GestionComptes.g.cs
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\InterfaceFonctionnalité.g.cs
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\NvConsultation.g.cs
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\Nv_acceuil.g.cs
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageAffichHistorique.g.cs
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageExamenClinique.g.cs
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageFicheConsultation.g.cs
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageGestionCompte.g.cs
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageHome.g.cs
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageInscription.g.cs
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageModifierCompte.g.cs
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageNotif.g.cs
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageNvPatient.g.cs
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PagePatients.g.cs
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageRdv.g.cs
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageVerifSaisi.g.cs
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\Page_Certificat.g.cs
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\Page_Examen_Comp.g.cs
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\Page_Lettre_Orientation.g.cs
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\Page_Ordonnance.g.cs
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\WpfApplication1_Content.g.cs
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Youcef\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\WpfApplication1.csproj.ResolveComReference.cache
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\auth.baml
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\DictionnaireRetourButton.baml
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\GestionComptes.baml
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\InterfaceFonctionnalité.baml
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\NvConsultation.baml
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\Nv_acceuil.baml
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageAffichHistorique.baml
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageExamenClinique.baml
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageFicheConsultation.baml
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageGestionCompte.baml
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageHome.baml
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageInscription.baml
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageModifierCompte.baml
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageNotif.baml
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageNvPatient.baml
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PagePatients.baml
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageRdv.baml
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageVerifSaisi.baml
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\Page_Certificat.baml
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\Page_Examen_Comp.baml
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\Page_Lettre_Orientation.baml
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\Page_Ordonnance.baml
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\App.baml
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\auth.g.cs
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\GestionComptes.g.cs
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\InterfaceFonctionnalité.g.cs
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\NvConsultation.g.cs
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\Nv_acceuil.g.cs
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageAffichHistorique.g.cs
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageExamenClinique.g.cs
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageFicheConsultation.g.cs
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageGestionCompte.g.cs
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageHome.g.cs
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageInscription.g.cs
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageModifierCompte.g.cs
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageNotif.g.cs
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageNvPatient.g.cs
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PagePatients.g.cs
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageRdv.g.cs
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageVerifSaisi.g.cs
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\Page_Certificat.g.cs
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\Page_Examen_Comp.g.cs
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\Page_Lettre_Orientation.g.cs
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\Page_Ordonnance.g.cs
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\WpfApplication1_Content.g.cs
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\bin\Debug\Database1.mdf
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\bin\Debug\Database1_log.ldf
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\bin\Debug\itextsharp.dll
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\bin\Debug\MaterialDesignColors.dll
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Ismail\Desktop\projet final\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\WpfApplication1.csproj.ResolveComReference.cache
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\WpfApplication1.exe
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\WpfApplication1.pdb
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\bin\Debug\Database1.mdf
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\bin\Debug\Database1_log.ldf
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\bin\Debug\WpfApplication1.pdb
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\bin\Debug\itextsharp.dll
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\bin\Debug\itextsharp.xmlworker.dll
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\bin\Debug\MaterialDesignColors.dll
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\auth.baml
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\DictionnaireRetourButton.baml
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\GestionComptes.baml
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\InterfaceFonctionnalité.baml
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\NvConsultation.baml
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\Nv_acceuil.baml
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageAffichHistorique.baml
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageExamenClinique.baml
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageFicheConsultation.baml
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageGestionCompte.baml
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageHome.baml
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageInscription.baml
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageModifierCompte.baml
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageNotif.baml
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageNvPatient.baml
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PagePatients.baml
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageRdv.baml
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageVerifSaisi.baml
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\Page_Certificat.baml
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\Page_Examen_Comp.baml
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\Page_Lettre_Orientation.baml
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\Page_Ordonnance.baml
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\App.baml
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\auth.g.cs
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\GestionComptes.g.cs
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\InterfaceFonctionnalité.g.cs
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\NvConsultation.g.cs
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\Nv_acceuil.g.cs
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageAffichHistorique.g.cs
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageExamenClinique.g.cs
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageFicheConsultation.g.cs
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageGestionCompte.g.cs
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageHome.g.cs
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageInscription.g.cs
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageModifierCompte.g.cs
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageNotif.g.cs
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageNvPatient.g.cs
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PagePatients.g.cs
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageRdv.g.cs
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\PageVerifSaisi.g.cs
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\Page_Certificat.g.cs
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\Page_Examen_Comp.g.cs
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\Page_Lettre_Orientation.g.cs
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\Page_Ordonnance.g.cs
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\App.g.cs
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\WpfApplication1_Content.g.cs
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+D:\Recup\Prepa\Nouveau dossier (2)\WpfApplication1-Version\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache

@@ -1,0 +1,32 @@
+﻿<Page x:Class="WpfApplication1.PageAffichHistorique"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      mc:Ignorable="d"
+	Title="PageAffichHistorique"  Height="600" Width="1080">
+    <StackPanel Background="WhiteSmoke">
+        <Grid Height="40">
+            <StackPanel HorizontalAlignment="Left" Margin="20 0"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="20 0">
+                <Button Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Center" Style="{StaticResource MaterialDesignFloatingActionMiniAccentButton}">
+                    <materialDesign:PackIcon Kind="Power" Foreground="#FFA2A2A2" Width="25" Height="25" />
+                </Button>
+            </StackPanel>
+        </Grid>
+        <Grid Height="100">
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Top" Margin="10 0">
+                <Button Uid="0" Width="200" Content="FICHE DE CONSULTATION" Height="50" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#0c4a60" Click="Button_Click"/>
+                <Button Uid="1" Width="200" Content="EXAMEN COMPLEMENTAIRE" Height="50" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#0c4a60" Click="Button_Click"/>
+                <Button Uid="2" Width="200" Content="ORDONNANCE" Height="50" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#0c4a60" Click="Button_Click"/>
+                <Button Uid="3" Width="200" Content="CERTIFICAT" Height="50" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#0c4a60" Click="Button_Click"/>
+                <Button Uid="4" Width="200" Content="ORIENTATION" Height="50" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#0c4a60" Click="Button_Click"/>
+            </StackPanel>
+            <Grid x:Name="GridCursor" Width="200" Height="5" Background="#FFD54A42" HorizontalAlignment="Left" Margin="10 0"/>
+        </Grid>
+        <Grid x:Name="GridMain" Height="460" Background="WhiteSmoke">
+            <Frame Name="support" Margin="0"/>
+        </Grid>
+    </StackPanel>
+</Page>

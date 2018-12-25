@@ -1,0 +1,13 @@
+﻿<Page x:Class="WpfApplication1.PageNotif"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="100" d:DesignWidth="200"
+	Title="PageNotif">
+
+    <Grid Background="#FF3970D1" MouseLeftButtonUp="Grid_MouseLeftButtonUp"   >
+        <TextBlock Margin="10" TextWrapping="Wrap" Name="Contenu" Foreground="White" />
+    </Grid>
+</Page>

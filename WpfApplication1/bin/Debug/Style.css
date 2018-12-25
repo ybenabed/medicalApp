@@ -1,0 +1,258 @@
+﻿{
+    padding: 0px;
+    margin: 0px;
+}
+body {
+}
+    header{
+       width:1900px;
+        background: #415e9b;
+        height: 100px;
+        border-bottom:3px solid grey;
+    }
+    .titre{
+        text-align:center;
+        color:white;
+        font-family:'Arial Rounded MT';
+        font-weight:bold;
+        font-size:  70px;
+        text-decoration-color:white;
+    }
+    .titre1{
+        margin-left:180px;
+        margin-top:-50px;
+        text-align:left;
+        color:white;
+        font-family:'Arial Rounded MT';
+        font-weight:bold;
+        font-size:  30px;
+        text-decoration-color:white;
+
+    }
+    .im{
+        margin-left:130px;
+        margin-top:-65px;
+        text-align:left;
+        color:white;
+        font-family:'Arial Rounded MT';
+        font-weight:bold;
+        font-size: 80px;
+        text-decoration-color:white;
+    }
+
+   
+   .titre2{
+       text-align:left;
+        color:white;
+        font-family:'Arial Rounded MT';
+        font-weight:bold;
+        font-size:  30px;
+        text-decoration:none;
+   }
+   .lii{
+        margin-left:1450px;
+        margin-top:-60px;
+        color:white;
+        font-family:'Arial Rounded MT';
+        font-weight:bold;
+        font-size:  30px;
+        text-decoration-color:white;
+   }
+ .uul{
+     font-weight:600;
+     width:1500px;
+     margin-left:150px;
+     text-align:left;
+     color:black;
+     font-size:30px;
+     font-family:Calibri;
+     word-wrap:break-word;
+ }
+
+ .hidden{
+  display:none;
+  width:1200px;
+ }
+ .titres{
+     margin-top:25px;
+     margin-bottom:20px;
+     width:715px;
+     border-bottom:5px solid #415e9b; 
+     margin-left:150px;
+     text-align:left;
+     color:#415e9b;
+     font-weight:bold;
+     font-size:40px;
+     font-family:Calibri;
+     word-wrap:break-word;
+
+ }
+ .titress{
+     margin-top:25px;
+     margin-bottom:20px;
+     width:670px;
+     border-bottom:5px solid #415e9b; 
+     margin-left:150px;
+     text-align:left;
+     color:#415e9b;
+     font-weight:bold;
+     font-size:40px;
+     font-family:Calibri;
+     word-wrap:break-word;
+ }
+ .titresss
+ {
+     margin-top:25px;
+     margin-bottom:20px;
+     width:1000px;
+     border-bottom:5px solid #415e9b; 
+     margin-left:150px;
+     text-align:left;
+     color:#415e9b;
+     font-weight:bold;
+     font-size:40px;
+     font-family:Calibri;
+     word-wrap:break-word;
+
+ }
+ .sstitre{
+     margin-top:25px;
+     margin-bottom:20px; 
+     margin-left:150px;
+     text-align:left;
+     color:#415e9b;
+     font-weight:bold;
+     font-size:30px;
+     font-family:Calibri;
+     word-wrap:break-word;
+ }
+ .image{
+     border-bottom:5px solid #415e9b;
+     border-top:5px solid #415e9b;
+     border-left:5px solid #415e9b;
+     border-right:5px solid #415e9b;
+     margin-top:50px;
+     margin-bottom:50px;
+     background:#415e9b;
+     margin-left:150px;
+ }
+   
+ .titrecer{
+     margin-top:25px;
+     margin-bottom:20px;
+     width:620px;
+     border-bottom:5px solid #415e9b; 
+     margin-left:150px;
+     text-align:left;
+     color:#415e9b;
+     font-weight:bold;
+     font-size:40px;
+     font-family:Calibri;
+     word-wrap:break-word;
+ }
+ .attention{
+     margin-top:25px;
+     margin-bottom:20px;
+     width:180px;
+     border-bottom:5px double red; 
+     margin-left:150px;
+     text-align:left;
+     color:red;
+     font-weight:bold;
+     font-size:40px;
+     font-family:Calibri;
+     word-wrap:break-word;
+ }
+ .uul1{
+     font-weight:600;
+     width:1500px;
+     margin-left:150px;
+     text-align:left;
+     color:red;
+     font-size:30px;
+     font-family:Calibri;
+     word-wrap:break-word;
+     margin-bottom:50px;
+
+
+ }
+ .h{
+     margin-top:25px;
+     text-align:center;
+     color:#415e9b;
+     font-weight:bold;
+     font-size:60px;
+     font-family:Calibri;
+     word-wrap:break-word;
+
+ }
+ .titreord{
+      margin-top:25px;
+     margin-bottom:20px;
+     width:560px;
+     border-bottom:5px solid #415e9b; 
+     margin-left:150px;
+     text-align:left;
+     color:#415e9b;
+     font-weight:bold;
+     font-size:40px;
+     font-family:Calibri;
+     word-wrap:break-word;
+ }
+
+
+ .titreord1{
+
+     margin-top:25px;
+     margin-bottom:20px;
+     width:500px;
+     border-bottom:5px solid #415e9b; 
+     margin-left:150px;
+     text-align:left;
+     color:#415e9b;
+     font-weight:bold;
+     font-size:40px;
+     font-family:Calibri;
+     word-wrap:break-word;
+ }
+ .titrelett{
+     margin-top:25px;
+     margin-bottom:20px;
+     width:675px;
+     border-bottom:5px solid #415e9b; 
+     margin-left:150px;
+     text-align:left;
+     color:#415e9b;
+     font-weight:bold;
+     font-size:40px;
+     font-family:Calibri;
+     word-wrap:break-word;
+
+ }
+ .titreexam{
+     margin-top:25px;
+     margin-bottom:20px;
+     width:740px;
+     border-bottom:5px solid #415e9b; 
+     margin-left:150px;
+     text-align:left;
+     color:#415e9b;
+     font-weight:bold;
+     font-size:40px;
+     font-family:Calibri;
+     word-wrap:break-word;
+ }
+ .nom{
+
+     font-weight:600;
+     width:1500px;
+     margin-left:400px;
+     text-align:left;
+     color:black;
+     font-size:30px;
+     font-family:Calibri;
+     word-wrap:break-word;
+
+
+ }
+ 

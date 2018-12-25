@@ -1,0 +1,46 @@
+﻿<Window x:Class="WpfApplication1.GestionComptes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Title="GestionComptes" Height="600" Width="800" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None"
+        >
+    <StackPanel Background="White" HorizontalAlignment="Left" Width="800">
+        <Grid Name="maingrd" Height="40" HorizontalAlignment="Left" Width="800" Background="#0c4a60" MouseDown="maingrd_MouseDown">
+            <StackPanel HorizontalAlignment="Left" Margin="0"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="5,0,750,0">
+                <Button Name="shut_butt" Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Center" Click="shut_butt_Click"  >
+                    <materialDesign:PackIcon Name="shutdown" Kind="Logout" Foreground="#FFA2A2A2" Width="25" Height="25" Cursor="Hand" RenderTransformOrigin="0.5,0.5"  >
+                        <materialDesign:PackIcon.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform/>
+                                <SkewTransform/>
+                                <RotateTransform Angle="180"/>
+                                <TranslateTransform/>
+                            </TransformGroup>
+                        </materialDesign:PackIcon.RenderTransform>
+                    </materialDesign:PackIcon>
+                </Button>
+            </StackPanel>
+        </Grid>
+        <Grid Height="100" HorizontalAlignment="Left" Width="800">
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Top" Margin="10,0,0,0">
+                <Button Uid="0" Width="150" Content="COMPTES" Height="50" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#0c4a60" Click="Button_Click"/>
+                <Button Uid="1" Width="150" Content="NOUVEAU" Height="50" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#0c4a60" Click="Button_Click"/>
+            </StackPanel>
+            <Grid x:Name="GridCursor" Width="150" Height="5" Background="#FFD54A42" HorizontalAlignment="Left" Margin="10 0"/>
+        </Grid>
+        <Grid x:Name="GridMain" Height="460" Background="WhiteSmoke">
+            <Frame Name="Gestion_support" HorizontalAlignment="Left" Height="460" VerticalAlignment="Top" Width="800" NavigationUIVisibility="Hidden" />
+        </Grid>
+        <StackPanel  Height="70" Width="350" Background="#FFF30000" Visibility="Hidden"
+        	x:Name="inactivityMessage" HorizontalAlignment="Center" Margin="0,-265,0,500">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Label Content="Votre session se déconnectera aprés " FontSize="14" Foreground="White" FontWeight="SemiBold"/>
+                <Label x:Name="minuteur" FontSize="14" Foreground="White" FontWeight="SemiBold" Margin="-8,0,0,0"/>
+                <Label Content="seconde(s)" FontSize="14" Foreground="White" FontWeight="SemiBold" Margin="-8,0,0,0"/>
+            </StackPanel>
+            <Button Content="Annuler" x:Name="annuler" Margin="0,3,0,0" Width="90" Click="annuler_Click" Background="{x:Null}" BorderBrush="{x:Null}" />
+        </StackPanel>
+    </StackPanel>
+</Window>
+

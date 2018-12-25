@@ -1,0 +1,100 @@
+﻿<Page x:Class="WpfApplication1.PageInscription"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300" Height="460" Width="450"
+	Title="PageInscription"  >
+    <Grid>
+        <Rectangle Name="Recstackquitrdv" HorizontalAlignment="Center" VerticalAlignment="Center" Width="450" Height="460" Fill="White" Visibility="Visible" >
+            <Rectangle.Effect>
+                <DropShadowEffect BlurRadius="15" Direction="0" RenderingBias="Quality" ShadowDepth="1" Color="#FFBBBBBB"/>
+            </Rectangle.Effect>
+        </Rectangle>
+        <Grid Background="WhiteSmoke" Margin="0,0,0,0" >
+            <StackPanel Margin="0,44,0,0" Name="Fenetre">
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="        Nom"  FontSize="14"/>
+                    <TextBox x:Name="doctorNom"  VerticalAlignment="Center" Width="100" MaxLength="30" TextWrapping="NoWrap" LostFocus="doctorNom_LostFocus" Background="{x:Null}" FontSize="14"/>
+                    <Label Content="Prenom" FontSize="14"/>
+                    <TextBox x:Name="doctorPrenom" VerticalAlignment="Center" Width="140" MaxLength="50" TextWrapping="NoWrap" LostFocus="doctorPrenom_LostFocus" FontSize="14"/>
+                </StackPanel>
+                <Label/>
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="        Adresse du cabinet"  FontSize="14"/>
+                    <TextBox x:Name="doctorAdress" VerticalAlignment="Center" Width="200" MaxLength="150" TextWrapping="NoWrap"/>
+                    <Label x:Name="adressWarning" Foreground="White"/>
+                </StackPanel>
+                <Label FontSize="14"/>
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="        Spécialité               "  FontSize="14"/>
+                    <TextBox x:Name="doctorSpec" VerticalAlignment="Center" Width="160" MaxLength="50" TextWrapping="NoWrap" KeyUp="doctorSpec_KeyDown" KeyDown="doctorSpec_KeyDown" LostFocus="doctorSpec_LostFocus" FontSize="14"/>
+                    <Label x:Name="specWarning" Foreground="White"/>
+                </StackPanel>
+                <Label/>
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="        Numero téléphone"  FontSize="14"/>
+                    <TextBox x:Name="doctorNumber" VerticalAlignment="Center" PreviewTextInput="doctorNumber_PreviewTextInput" Width="80" MaxLength="10" FontSize="14"/>
+                    <Label Content="Sexe  "  FontSize="14"/>
+                    <ComboBox x:Name="doctorSexe" Width="80" FontSize="14">
+                        <ComboBoxItem Content="Homme"/>
+                        <ComboBoxItem Content="Femme"/>
+                    </ComboBox>
+                </StackPanel>
+                <Label/>
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="        Adresse E-mail       "  FontSize="14"/>
+                    <TextBox x:Name="doctorMail" VerticalAlignment="Center" Width="160" MaxLength="30" TextWrapping="NoWrap" LostFocus="doctorMail_LostFocus" FontSize="14"/>
+                    <Image x:Name="mailpic" Source="Images\buttonAttention.png" Width="24" Visibility="Hidden" />
+                    <Label x:Name="mailWarning" Foreground="White"/>
+                </StackPanel>
+                <Label/>
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="        Nom d'utilisateur   "  FontSize="14"/>
+                    <TextBox x:Name="doctorUsername" VerticalAlignment="Center" Width="160" MaxLength="20" TextWrapping="NoWrap" KeyUp="doctorUsername_KeyDown" KeyDown="doctorUsername_KeyDown" LostFocus="doctorUsername_LostFocus" FontSize="14"/>
+                    <Image x:Name="usernamepic" Source="Images\buttonAttention.png" Width="24" Visibility="Hidden" />
+                    <Label x:Name="usernameWarning" Foreground="White"/>
+                </StackPanel>
+                <Label/>
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="        Mot de passe         "  FontSize="14"/>
+                    <PasswordBox x:Name="doctorPassword" VerticalAlignment="Center" Width="160" MaxLength="20" KeyDown="doctorPassword_KeyDown" KeyUp="doctorPassword_KeyDown" LostFocus="doctorPassword_LostFocus" FontSize="14"/>
+                    <Image x:Name="passpic" Source="Images\buttonAttention.png" Width="24" Visibility="Hidden" />
+                    <Label x:Name="passwordWarning" Foreground="White"/>
+                </StackPanel>
+                <Label/>
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="        Confirmation         "  FontSize="14"/>
+                    <PasswordBox x:Name="doctorConfirmpassword" VerticalAlignment="Center" Width="160" MaxLength="20" KeyUp="doctorConfirmpassword_KeyDown" KeyDown="doctorConfirmpassword_KeyDown" LostFocus="doctorConfirmpassword_LostFocus" FontSize="14"/>
+                    <Image x:Name="confirmpic" Source="Images\buttonAttention.png" Width="24" Visibility="Hidden" />
+                    <Label x:Name="confirmpasswordWarning" Foreground="White"/>
+                </StackPanel>
+                <CheckBox Name="type" Content="Medcin adminstrateur" FontSize="14" Margin="153,10,0,0" Height="25"/>
+                <StackPanel  Margin="60,10,0,0" Orientation="Horizontal">
+                    <Button Margin="200,0,0,0" x:Name="buttonInscription" VerticalAlignment="Center" Width="89" Content="S'inscrire" Click="buttonInscription_Click" Foreground="#FFD54A42" Background="{x:Null}" BorderBrush="{x:Null}"/>
+                    <Button Margin="5,0,0,0" x:Name="buttonRetoure" VerticalAlignment="Center" Width="89" Content="Annuler" Click="buttonRetoure_Click" Foreground="#FFD54A42" Background="{x:Null}" BorderBrush="{x:Null}" />
+
+                </StackPanel>
+            </StackPanel>
+            <Rectangle Name="RecSwarningStack" HorizontalAlignment="Center" VerticalAlignment="Center" Width="250" Height="72" Margin="105,257,95,131" Fill="White" Visibility="Hidden" >
+                <Rectangle.Effect>
+                    <DropShadowEffect BlurRadius="15" Direction="0" RenderingBias="Quality" ShadowDepth="1" Color="#FFBBBBBB"/>
+                </Rectangle.Effect>
+            </Rectangle>
+            <StackPanel Name="warningStack" Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Center"  Margin="105,257,95,131" 
+                    Visibility="Hidden">
+                <Label Name="Warning" HorizontalAlignment="Center" 
+                   Height="40" Width="250" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" />
+                <Button Content="OK" Click="Button_Click" HorizontalAlignment="Center" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#FFD54A42"/>
+            </StackPanel>
+            <Frame Name="saisiFrame" Margin="242,212,13,118" />
+            <Label  VerticalAlignment="Top" FontSize="22" Margin="160,0">
+                <Bold>
+                    <Run Text="Inscritption"/>
+                </Bold>
+            </Label>
+        </Grid>
+    </Grid>
+</Page>
